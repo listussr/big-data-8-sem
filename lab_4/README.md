@@ -11,18 +11,18 @@
 
 RideCleanisingExercise
 
-![](test_res\rides_cleansing_test.png)
+![](test_res/rides_cleansing_test.png)
 
 RidesAndFaresExercise
 
-![](test_res\rides_and_fares_test.png)
+![](test_res/rides_and_fares_test.png)
 
 
 HourlyTipsExercise
 
-![](test_res\hourly_tips_test.png)
+![](test_res/hourly_tips_test.png)
 
 
 ExpiringStateExercise
 
-![](test_res\expiring_state_test.png)
+![](test_res/expiring_state_test.png)
